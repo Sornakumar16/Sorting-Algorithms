@@ -53,10 +53,13 @@ print(list_of_nums)
 ```
 
 ## Output:
-i)	#Selection Sort
+i)	#Selection Sort:
+
 ![image](https://github.com/Sornakumar16/Sorting-Algorithms/assets/138849327/c0beca94-15f8-46e5-a8ed-ccdb695a0734)
 
-ii)	#Insertion Sort
+
+ii)	#Insertion Sort:
+
 ![image](https://github.com/Sornakumar16/Sorting-Algorithms/assets/138849327/2171926a-0472-4326-b876-443cd2cfe13d)
 
 
